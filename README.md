@@ -33,3 +33,10 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Having issues with Vue Router installing?
+
+```sh
+npm install --save-dev @vue/cli-service
+vue add router
+```
